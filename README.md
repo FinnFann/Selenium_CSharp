@@ -1,5 +1,6 @@
 # Selenium_CSharp
-A simple repository for small CSharp selenium examples. Primarily for reference, and sharing.
+A simple repository for small CSharp selenium examples. Primarily for reference, and sharing.<br>
+*This is to be used with the Visual Studio Test Explorer*
 
 *Author: Tyler Bouchard*<br>
 *Last modified date: August 5, 2021*<br>
